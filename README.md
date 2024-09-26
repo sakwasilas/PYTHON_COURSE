@@ -184,5 +184,18 @@ it refers to where a variable is stored
 - local variable :variable decalred but can only be accessed where its declared
 
 
+## Data types
+
+Data type is  kind of data that can be stored and manipulated in a program
+
+example
+
+- Text:String c"silas sakwa", "Engineering" ,"Kenya" ,"1000","software"
+
+- Numeric type :Integer (3,5,1000,56,255,1000000)
+                float(3005.9, 45.6 ,800.3)
+                Complex(5j)
+
+
 
 

@@ -235,6 +235,6 @@ the output will be
 
 output
 
-```print(name + " has " + str(length) + " characters.")```
+```print(name + " has " + str(length) + " characters.")```# Alice has 5 characters
 
 

@@ -258,12 +258,13 @@ replace_this_name=name.replace("S","C")
 
 ## String slicing
 
-```name="silas sakwa```
+```name="silas sakwa"```
 
 
 ```print(name[0])```
 
+-This will print the first character of the string
 
-
+```s```
 
 

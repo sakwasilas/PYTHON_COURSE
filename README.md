@@ -226,8 +226,9 @@ the output will be
 
 ### To find the lenght of the string
 
-```name = "Alice"  # Example name
-length = len(name)  # Get the length of the string```
+
+```name = "Alice"  #Example name
+length = len(name)  #Get the length of the string```
 
 output
 

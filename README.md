@@ -74,3 +74,12 @@ country ="kenya"
 
 - age=67 age is a vraiable that stores the age 67
 country is a variable that store kenya
+
+we can use print function() to output the value of variables
+
+example
+name="silas sakwa"
+
+`print(name)'
+``` output
+silas

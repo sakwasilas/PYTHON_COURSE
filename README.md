@@ -142,44 +142,29 @@ used to know type of data stored in a container
 
 also used to change a value of a variable from one state to another
 
-customer_name="Kate"
+- customer_name="Kate"
 
-Prodcut_Pucharsed="Itel 05"
+- Prodcut_Pucharsed="Itel 05"
 
-price=10000
+- price=10000
 
-height=11.7
+- height=11.7
 
-
-print(type(height))
-
+```print(type(height))```
 
 output
-
 
 float
 
-
-
 print(type(customer_name))
 
-
-
 output
-
 
 str
 
-
-
 print(type(price))
 
-
-
-
 output
-
-
 
 price
 

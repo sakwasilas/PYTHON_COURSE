@@ -49,7 +49,7 @@ single line comment use #
 `print("what is python programming")`
 
 
-this is a multiline comment
+## multiline comment
 
 
 multine line comment use single tripe qoute or double triple qoute
@@ -58,3 +58,19 @@ multine line comment use single tripe qoute or double triple qoute
 """
 `print("hello ,today am learning python programming")`
 """
+
+
+## variables
+
+variable are containers which are used to store data or some information
+
+example
+
+- name='silas sakwa'
+age=67
+country ="kenya"
+
+- name is a variable that stores information about silas
+
+- age=67 age is a vraiable that stores the age 67
+country is a variable that store kenya

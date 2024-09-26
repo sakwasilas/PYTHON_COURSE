@@ -169,3 +169,20 @@ str
 price
 
 
+int () converts any value to integer
+
+float () converts any vlaue to float
+
+str () convert any value to string
+
+## scope of variable
+
+it refers to where a variable is stored
+
+- global variable :A variable decared and can be accessed anywhere
+
+- local variable :variable decalred but can only be accessed where its declared
+
+
+
+

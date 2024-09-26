@@ -31,6 +31,7 @@ print(3) #numbers are not enclosed in qoutation unless you want to ouput as stri
 
 ## comments in python
 - comments : allows you to describe what your program is doing
+  
 or
 
 - what some part of code mean 

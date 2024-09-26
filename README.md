@@ -153,19 +153,33 @@ height=11.7
 
 ``` print(type(height))''''
 
+
 output
+
 
 ```float```
 
-print(type(customer_name))
+
+
+```print(type(customer_name))````
+
+
 
 output
+
 
 '''str```
 
-print(type(price))
+
+
+```print(type(price))```
+
+
+
 
 output
+
+
 
 ```price```
 

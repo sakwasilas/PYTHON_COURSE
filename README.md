@@ -42,6 +42,8 @@ or
 commenst can be written as single line comment or double line comment
 ## single line comment
 
+single line comment use #
+
 #this is a single line comment
 
 `print("what is python programming")`
@@ -49,6 +51,7 @@ commenst can be written as single line comment or double line comment
 
 this is a multiline comment
 
+multine line comment use single tripe qoute or double triple qoute
 """
 `print("hello ,today am learning python programming")`
 """

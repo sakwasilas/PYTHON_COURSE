@@ -26,3 +26,15 @@ we use print function() followed by either single qoute or double qoute to outpu
 `print("hello, my name is silas" )`
 
 `print("hello ,am learning python )`
+
+print(3) #numbers are not enclosed in qoutation unless you want to ouput as string
+
+## comments in python
+comments : allows you to describe what your program is doing
+or
+
+what some part of code mean 
+
+or put some kind of meaning to your code 
+
+commenst can be written as single line comment or double line comment

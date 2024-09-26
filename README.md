@@ -100,3 +100,11 @@ print(prouct)
 print(price)
 
 ```
+
+output
+
+```kate```
+
+```iphone 3```
+
+```100000```

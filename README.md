@@ -276,3 +276,12 @@ this will print the fifth character from the end of the string
 ```s```
 
 
+```print(name[:3])```
+
+```k```
+
+```print(name[2:8])```
+
+```las sa```
+
+

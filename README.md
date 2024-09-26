@@ -152,19 +152,19 @@ also used to change a value of a variable from one state to another
 
 ```print(type(height))```
 
-output
+-- output
 
 float
 
-print(type(customer_name))
+```print(type(customer_name))```
 
-output
+-- output
 
 str
 
-print(type(price))
+```print(type(price))```
 
-output
+-- output
 
 price
 

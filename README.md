@@ -51,7 +51,10 @@ single line comment use #
 
 this is a multiline comment
 
+
 multine line comment use single tripe qoute or double triple qoute
+
+
 """
 `print("hello ,today am learning python programming")`
 """

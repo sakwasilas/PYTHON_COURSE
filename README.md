@@ -228,6 +228,8 @@ the output will be
 
 
 ```name = "Alice"  ```
+
+
 ```length = len(name)  #Get the length of the string```
 
 

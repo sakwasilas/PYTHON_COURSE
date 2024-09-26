@@ -237,4 +237,29 @@ output
 
 ```print(name + " has " + str(length) + " characters.")```# Alice has 5 characters
 
+### to uppercase
+
+
+```name="silas sakwa ```
+
+```print(name.uppercase())
+
+output
+
+```SILAS SAKWA```#The name has been converted to uppercase
+
+
+### replace string
+
+replace_this_name=name.replace("S","C")
+
+## String slicing
+
+```name="silas sakwa````
+
+```print(name[0])
+
+
+
+
 

@@ -169,11 +169,11 @@ str
 price
 
 
-int () converts any value to integer
+- int () converts any value to integer
 
-float () converts any vlaue to float
+- float () converts any vlaue to float
 
-str () convert any value to string
+- str () convert any value to string
 
 ## scope of variable
 

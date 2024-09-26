@@ -193,8 +193,10 @@ example
 - Text:String c"silas sakwa", "Engineering" ,"Kenya" ,"1000","software"
 
 - Numeric type :Integer (3,5,1000,56,255,1000000)
-                float(3005.9, 45.6 ,800.3)
-                Complex(5j)
+
+                 float(3005.9, 45.6 ,800.3)
+
+                 Complex(5j)
 
 
 

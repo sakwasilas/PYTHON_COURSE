@@ -133,5 +133,9 @@ another way of printing formated output is using concatation means(+)
 
 ``` print("Product is " +product)```
 
-``` print("price  " +customer)```
+``` print("price  " +price)```
+
+``` print("Price " +  str (price))```
+
+
 

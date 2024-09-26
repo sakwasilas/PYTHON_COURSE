@@ -22,5 +22,7 @@ python --version
 we use print function() followed by either single qoute or double qoute to output information on python file.
 
 `print("hello ,world" )`
+
 `print("hello, my name is silas" )`
+
 `print("hello ,am learning python )`

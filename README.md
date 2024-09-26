@@ -200,12 +200,12 @@ float(3005.9, 45.6 ,800.3)
 
  Complex(5j)
 
--sequence :list ,tuple ,range
+- sequence :list ,tuple ,range
 
--mapping :Dictionary 
+- mapping :Dictionary 
 
--Set :Set
+- Set :Set
 
--Boolean :Boal 
+- Boolean :Boal 
 
 

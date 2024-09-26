@@ -84,12 +84,21 @@ name="silas sakwa"
 ``` output
 silas
 
+
+
+
 example 2
 ```
 customer="Kate"
+
 product="Iphone 3"
+
 price=100000
+
 print(customer)
+
 print(prouct)
+
 print(price)
+
 ```

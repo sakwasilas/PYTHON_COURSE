@@ -83,9 +83,7 @@ name="silas sakwa"
 `print(name)'
 ``` output
 silas
-
-
-
+```
 
 example 2
 ```

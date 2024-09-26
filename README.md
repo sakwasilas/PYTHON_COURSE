@@ -30,11 +30,12 @@ we use print function() followed by either single qoute or double qoute to outpu
 print(3) #numbers are not enclosed in qoutation unless you want to ouput as string
 
 ## comments in python
-comments : allows you to describe what your program is doing
+- comments : allows you to describe what your program is doing
 or
 
-what some part of code mean 
+- what some part of code mean 
 
-or put some kind of meaning to your code 
+or 
+- put some kind of meaning to your code 
 
 commenst can be written as single line comment or double line comment

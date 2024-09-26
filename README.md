@@ -127,4 +127,11 @@ output
 
 ```customer name Kate product purchased Iphone 3 at ksh 100000 ```
 
+another way of printing formated output is using concatation means(+)
+
+``` print("Customer name is " +customer)```
+
+``` print("Product is " +product)```
+
+``` print("price  " +customer)```
 

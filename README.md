@@ -15,3 +15,6 @@ Python is a general-purpose programming language created by **Guido van Rossum**
 - one can achieve more by writing few codes of lines
 - its interpreted ,its doesnot require interpreter
 - its support procedural language,functional and object oriented programming language
+python has two version python2 and python3 ,python3 is the recomended version because of updates
+### to check if python exists and version of python 
+python --version

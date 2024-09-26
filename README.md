@@ -108,3 +108,23 @@ output
 ```iphone 3```
 
 ```100000```
+
+
+## let learn how to output using formatted output
+
+
+```
+customer="Kate"
+
+product="Iphone 3"
+
+price=100000
+```
+
+``` print(f"Customer name:{} product purchased{} at ksh {}".format(customer,product,price)```
+
+output
+
+```customer name Kate product purchased Iphone 3 at ksh 100000 ```
+
+

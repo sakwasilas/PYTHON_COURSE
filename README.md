@@ -222,5 +222,15 @@ float(3005.9, 45.6 ,800.3)
 the output will be
 
 ```silas sakwa ```
+## operation on strings 
+
+### To find the lenght of the string
+
+```name = "Alice"  # Example name
+length = len(name)  # Get the length of the string```
+
+output
+
+```print(name + " has " + str(length) + " characters.")```
 
 

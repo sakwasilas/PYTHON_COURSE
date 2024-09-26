@@ -242,7 +242,7 @@ output
 
 ```name="silas sakwa ```
 
-```print(name.uppercase())
+```print(name.uppercase())```
 
 output
 

@@ -249,15 +249,19 @@ output
 ```SILAS SAKWA```#The name has been converted to uppercase
 
 
+
 ### replace string
 
 replace_this_name=name.replace("S","C")
+
+
 
 ## String slicing
 
 ```name="silas sakwa````
 
-```print(name[0])
+
+```print(name[0])```
 
 
 

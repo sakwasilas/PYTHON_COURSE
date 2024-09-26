@@ -268,3 +268,11 @@ replace_this_name=name.replace("S","C")
 ```s```
 
 
+```print(name[-5]```
+
+
+this will print the fifth character from the end of the string
+
+```s```
+
+

@@ -206,6 +206,21 @@ float(3005.9, 45.6 ,800.3)
 
 - Set :Set
 
-- Boolean :Boal 
+- Boolean :Boal
+
+
+  ## string
+
+  a string is a group of characters enclosed in double qoute or single qoute
+
+  example
+
+  name="silas sakwa"
+
+```print(name)```
+
+the output will be
+
+```silas sakwa ```
 
 
